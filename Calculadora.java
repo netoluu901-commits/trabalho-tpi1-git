@@ -2,15 +2,15 @@
 
     /**
      * Executa uma operação matemática básica.
-<<<<<<< HEAD
+HEAD
 HEAD
      * @param operacao Tipo da operação: "soma"
 
      * @param operacao Tipo da operação: "subtracao", "multiplicacao"
 oresgate
-=======
+
      * @param operacao Tipo da operação: "divisao"
->>>>>>> oamanhanuncamorre
+oamanhanuncamorre
      * @param a Primeiro número
      * @param b Segundo número
      * @return Resultado da operação
